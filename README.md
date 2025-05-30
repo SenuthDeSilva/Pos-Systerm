@@ -1,4 +1,6 @@
-🍽️ Restaurant POS System
+                                              🍽️ Restaurant POS System
+
+
 A full-featured Restaurant POS (Point of Sale) System built using the MERN Stack, designed to streamline restaurant operations, enhance customer experience, and efficiently manage orders, payments, and inventory.
 
 ✨ Features
