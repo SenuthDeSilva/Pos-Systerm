@@ -1,21 +1,21 @@
- Restaurant POS System
-A full-featured Restaurant POS System built using the MERN Stack to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
+🍽️ Restaurant POS System
+A full-featured Restaurant POS (Point of Sale) System built using the MERN Stack, designed to streamline restaurant operations, enhance customer experience, and efficiently manage orders, payments, and inventory.
 
 ✨ Features
-🍽️ Order Management
+🧾 Order Management
 Efficiently manage customer orders with real-time updates and status tracking.
 
 🪑 Table Reservations
-Simplify table bookings and manage reservations directly from the POS.
+Simplify table bookings and manage reservations directly from the POS system.
 
-🔐 Authentication
-Secure login and role-based access control for admins, staff, and users.
+🔐 Authentication & Role-Based Access
+Secure login system with access control for Admins, Staff, and Customers.
 
-💸 Payment Integration
-Integrated with Razorpay (or other gateways) for seamless online payments.
+💳 Payment Integration
+Seamless online payments integrated via Razorpay or other popular payment gateways.
 
 🧾 Billing & Invoicing
-Automatically generate detailed bills and invoices for every order.
+Automatically generate and manage detailed bills and invoices for every order.
 
 🏗️ Tech Stack
 Category	Technology
@@ -25,5 +25,13 @@ Category	Technology
 🔐 Authentication	JWT, bcrypt
 💳 Payment Integration	Razorpay
 📊 State Management	Redux Toolkit
-⚡ Data Fetching & Caching	React Query
+⚡ Data Handling	React Query
 🔗 APIs	RESTful APIs
+
+🚀 Getting Started
+Prerequisites
+Node.js
+
+MongoDB
+
+npm or yarn
